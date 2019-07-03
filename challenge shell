@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "bonjour arthur"
+echo "bonjour $1 "
